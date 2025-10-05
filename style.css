@@ -1,0 +1,125 @@
+.headBlock{
+    margin: 35px;
+    width: 95%;
+    height: 90px;
+    background: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.headP{
+    margin: 15px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif ;
+   display: inline;
+}
+
+.avatar{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+
+
+.monday{
+    width: 23.5%;
+    height: 255px;
+    border-radius: 5%;
+    background-color: lightpink;
+    overflow: hidden;
+    margin: 12px;
+    display: inline-block;
+}
+
+.tuesday{
+    width: 23.5%;
+    height: 255px;
+    border-radius: 5%;
+    background-color: lightblue;
+    overflow: hidden;
+    margin: 12px;
+    display: inline-block;
+}
+
+.wednesday{
+    width: 23.5%;
+    height: 255px;
+    border-radius: 5%;
+    background-color: lightyellow;
+    overflow: hidden;
+    margin: 12px;
+    display: inline-block;
+}
+
+.thursday{
+    width: 23.5%;
+    height: 255px;
+    border-radius: 5%;
+    background-color: lightgreen;
+    overflow: hidden;
+    margin: 12px;
+    display: inline-block;
+}
+
+.friday{
+    width: 23.5%;
+    height: 230px;
+    border-radius: 5%;
+    background-color: lightseagreen;
+    overflow: hidden;
+    margin-left: 490px;
+    display: inline-block;
+}
+
+.saturday{
+    width: 23.5%;
+    height: 230px;
+    border-radius: 5%;
+    background-color: lightsalmon;
+    overflow: hidden;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+
+.weekday{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+}
+.subject{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+
+.rememberList{
+    margin: 35px;
+    width: 96%;
+    height: 150px;
+    background: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+
+.rememberText{
+    margin: 10px;
+    width: 98.5%;
+}
+
+.send{
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif ;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
